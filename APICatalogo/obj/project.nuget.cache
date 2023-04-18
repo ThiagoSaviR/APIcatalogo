@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iYRhtuwDXE87/KS5FZCgK2a0qDfOTQPas3OHyo33S6WeJW6SCLiIp+g1x9iZcHAZqZ7hXUWB7rhBPRzIC3MIzg==",
+  "dgSpecHash": "zCoVfG3pUceGy0y3WbEzMxHSy0d3bU12NSNKv24WHewLGGNzrYsatZgs2JDJMZ0TJiWeMp7jJtFfQhLrDCfpAQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\asp .net core web API\\APICatalogo\\APICatalogo\\APICatalogo.csproj",
+  "projectFilePath": "C:\\dev\\asp .net core web API\\APICatalogo\\APIcatalogo\\APICatalogo\\APICatalogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thiagosavi_frwk\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\thiagosavi_frwk\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
